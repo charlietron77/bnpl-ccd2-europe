@@ -1,0 +1,6 @@
+country,iso,gdp_per_capita_usd_2023,internet_penetration_pct_2023,domestic_credit_pct_gdp_2023,unemployment_pct_2023,bnpl_pct_ecommerce_2024
+Germany,DE,54777,92.5,77.3,3.1,20
+France,FR,44700,86.8,112.6,7.3,5
+Netherlands,NL,63516,97.0,85.5,3.5,10
+Spain,ES,33493,95.4,78.4,12.2,3
+Italy,IT,39277,87.0,63.1,7.6,5

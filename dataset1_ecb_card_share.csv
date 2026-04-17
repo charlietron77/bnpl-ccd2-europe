@@ -1,0 +1,10 @@
+Country,ISO,2019,2020,2021,2022,2023-H1,2023-H2,2024-H1,2024-H2,2025-H1,delta_pp,source,variable,unit
+Germany,DE,26.0,28.7,30.3,37.5,40.5,42.1,42.0,43.5,45.3,19.299999999999997,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value
+France,FR,58.6,57.4,59.3,61.2,62.8,63.8,63.5,64.6,63.9,5.299999999999997,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value
+Spain,ES,60.3,63.4,66.4,66.2,66.6,67.8,66.7,67.6,67.3,7.0,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value
+Italy,IT,49.0,47.2,52.5,56.8,56.6,55.3,55.7,56.6,56.6,7.600000000000001,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value
+Netherlands,NL,54.2,51.7,49.2,49.2,49.1,49.6,48.8,50.4,48.5,-5.700000000000003,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value
+Belgium,BE,50.2,50.7,52.0,58.9,57.0,58.7,58.1,59.1,58.0,7.799999999999997,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value
+Finland,FI,64.6,63.9,61.6,64.2,64.2,65.8,64.9,64.8,66.1,1.5,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value
+Austria,AT,46.7,49.2,51.5,52.9,54.2,56.6,56.8,58.3,57.7,11.0,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value
+Portugal,PT,69.4,69.6,72.2,74.5,75.5,76.1,75.0,78.6,75.7,6.299999999999997,ECB Statistical Annexes pis2019-pis2025H1,card_payments_pct_of_noncash_transactions,% of total non-cash transactions by value

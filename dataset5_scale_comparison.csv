@@ -1,0 +1,6 @@
+metric,value,currency_unit,source
+klarna_gmv_global_fy2024,105.0,USD billion,"Klarna Holding AB (2025a) Annual Report FY2024, p.3"
+ecb_euro_area_cards_h1_2024,1550.0,EUR billion,"ECB Statistical Annex H1 2024, Table 1"
+ecb_euro_area_cards_h2_2024,1720.0,EUR billion,"ECB Statistical Annex H2 2024, Table 1"
+ecb_euro_area_cards_fy2024,3270.0,EUR billion (own sum H1+H2),Own calculation from primary ECB data
+klarna_global_as_pct_of_euro_area_cards,2.9,% (conservative upper bound),Own calculation; EUR/USD ~1.09 avg 2024
